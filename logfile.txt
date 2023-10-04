@@ -1,0 +1,61 @@
+1000,Normal People,11000,Romance,31/10/2022,14/11/2022,9,9
+1001,They Both Die At the End,11001,Romance,09/11/2022,23/11/2022,5,2
+1002,The Seven Husbands of Evelyn Hugo,11002,Romance,03/12/2022,17/12/2022,13,12
+1003,Pachinko,11003,Romance,26/12/2022,09/12/2022,3,3
+1004,Frankenstein,11004,Horror,20/12/2022,05/01/2023,6,4
+1005,Ferryman,11005,Horror,15/12/2022,29/12/2022,2,2
+1006,The Shining,11006,Horror,11/12/2022,25/12/2022,1,1
+1007,The Lake House,11007,Horror,29/12/2022,12/01/2023,3,0
+1008,The Subtle Art of Not Giving A F*ck,11008,Non-fiction,12/12/2022,26/12/2022,6,2
+1009,The Girl With Seven Names,11009,Non-fiction,21/12/2022,04/01/2023,5,0
+1010,The Comfort Book,11010,Non-fiction,30/12/2022,14/01/2023,4,4
+1011,The Republic,11011,Non-fiction,08/12/2022,22/12/2023,3,1
+1012,The Song of Achilles,11012,Fantasy,12/12/2022,26/12/2022,6,3
+1013,His Dark Materials,11013,Fantasy,17/12/2022,31/12/2022,5,3
+1014,The Fates Divide,11014,Fantasy,15/12/2022,29/12/2022,4,4
+4003,The Bees,11015,Fantasy,23/12/2022,06/01/2023,3,1
+5000,The Man Who Died Twice,11016,Mystery,21/12/2022,04/01/2023,6,1
+5001,The Maid,11017,Mystery,31/12/2022,14/01/2023,5,1
+5002,The Gilded Cage,11018,Mystery,25/12/2022,07/01/2023,4,0
+5003,The Game,11019,Mystery,07/12/2022,21/12/2022,3,2
+1000,Normal People,11020,Romance,12/12/2022,26/12/2022,6,5
+1023,They Both Die At the End,11021,Romance,03/12/2022,17/12/2022,5,2
+1002,The Seven Husbands of Evelyn Hugo,11022,Romance,11/12/2022,25/12/2022,4,4
+1003,Pachinko,11023,Romance,11/12/2022,25/12/2022,3,3
+1004,Frankenstein,11024,Horror,17/12/2022,31/12/2022,6,1
+1005,Ferryman,11025,Horror,23/12/222,06/01/2023,5,2
+1006,The Shining,11026,Horror,11/12/2022,25/12/2022,4,2
+1007,The Lake House,11027,Horror,02/12/2022,16/12/2022,3,3
+1008,The Subtle Art of Not Giving A F*ck,11028,Non-fiction,28/12/2022,11/01/2023,6,0
+1009,The Girl With Seven Names,11029,Non-fiction,13/12/2022,27/12/2022,5,1
+1010,The Comfort Book,11030,Non-fiction,10/12/2022,24/12/2022,4,2
+1011,The Republic,11031,Non-fiction,18/12/2022,01/01/2022,3,1
+1012,The Song of Achilles,11032,Fantasy,06/12/2022,20/12/2022,6,4
+1013,His Dark Materials,11033,Fantasy,03/12/2022,17/12/2022,5,1
+1014,The Fates Divide,11034,Fantasy,19/12/2022,26/12/2022,4,2
+4003,The Bees,11035,Fantasy,17/12/2022,31/12/2022,3,1
+5000,The Man Who Died Twice,11036,Mystery,01/12/2022,15/12/2022,6,3
+5001,The Maid,11037,Mystery,03/12/2022,/17/12/2022,5,1
+5002,The Gilded Cage,11038,Mystery,05/12/2022,19/12/2022,4,1
+5003,The Game,11039,Mystery,06/12/2022,20/12/2022,3,1
+1000,Normal People,11040,Romance,07/12/2022,21/12/2022,6,5
+1001,They Both Die At the End,11041,Romance,07/12/2022,21/12/2022,5,3
+1002,The Seven Husbands of Evelyn Hugo,11042,Romance,05/12/2022,19/12/2022,4,0
+1013,Pachinko,11043,Romance,14/12/2022,28/12/2022,3,1
+1004,Frankenstein,11044,Horror,01/12/2022,18/12/2022,6,0
+1005,Ferryman,11045,Horror,05/12/2022,,5,3
+1006,The Shining,11046,Horror,07/12/2022,21/12/2022,7,3
+1007,The Lake House,11047,Horror,08/12/2022,22/12/2022,8,6
+1018,The Subtle Art of Not Giving A F*ck,11048,Non-fiction,04/12/2022,18/12/2022,6,1
+1009,The Girl With Seven Names,11049,Non-fiction,02/12/2022,16/12/2022,5,0
+1010,The Comfort Book,11050,Non-fiction,05/12/2022,19/12/2022,4,1
+1011,The Republic,11051,Non-fiction,03/12/2022,17/12/2022,3,0
+1012,The Song of Achilles,11052,Fantasy,12/12/2022,26/12/2022,10,5
+1013,His Dark Materials,11053,Fantasy,02/12/2022,16/12/2022,8,2
+1014,The Fates Divide,11054,Fantasy,18/12/2022,02/01/2023,4,1
+4003,The Bees,11055,Fantasy,01/12/2022,15/12/2022,3,0
+5000,The Man Who Died Twice,11056,Mystery,09/12/2022,23/12/2022,6,4
+5001,The Maid,11057,Mystery,06/12/2022,20/,20/12/2022,5,0
+5003,The Gilded Cage,11058,Mystery,11/12/2022,,4,2
+5003,The Gilded Cage,11001,Mystery,11/12/2022,15/12/2022,4,2,
+1003,Pachinko,11001,Romance,21/2/2022,7/3/2022,3,3

@@ -1,0 +1,8 @@
+How to use the Graham Library System
+Key info:
+•The book id has a range from 1000-1060 to be valid 
+•Member Id must be above or equal to 11000 but less than 12000 to be valid
+•For the checkout function when the date is asked for you need to make sure the month is written as its position in the year so 13/08/2022 will cause the program to not run correctly but 13/8/2022 runs the program perfectly
+•There is a lag time between when the logfile.txt is updated after checking out a book,reserving a book and  so either reopen logfile.txt or wait some time
+•The code for the matplotlib bar graph that represents the budget spending is generalised so depending on how the logfile.txt is updated or changed the bar graph changes accordingly
+•When trying to reserve, checkout or return book logfile.txt needs to be updated hence, remember to open the logfile.txt such that it is on a newline so it appends there 
